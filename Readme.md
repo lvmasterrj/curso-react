@@ -10,3 +10,6 @@ Projeto inicial para aprendizado dos conceitos
 Projeto para desenvolvimento dos conceitos
 
 *Simulação de um app de venda de hamburger*
+
+## Projeto 2
+Projeto de utilização de HTTP/AJAX
