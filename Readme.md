@@ -18,7 +18,17 @@ Versão Básica de aplicação dos conceitos
 ### 2.0
 Adição de um Backend para salvar o pedido feito, utilizando Firebase
 
+*Axios, hoc, tratamento de erros*
+
 ## Blog
 Projeto para aprendizado de requisições HTTP/AJAX usando Axios
 
+### 1.0
+Versão básica (somente uma página)
+
 *Utiliza React com Axios para requisições Http na simulação de um Blog*
+
+### 2.0
+Versão SPA (Single Page Aplication)
+
+*Router Package*
