@@ -16,7 +16,7 @@ Versão Básica de aplicação dos conceitos
 *React Hooks, CSS modules, Prop Type Validation, Menu styling, Responsive design, Performance improving*
 
 ### 2.0
-Adição de um Backend para salvar o pedido feito, utilizando Firebase
+Versão com acesso a servidor usando Axios. Adição de um Backend para salvar o pedido feito, utilizando Firebase
 
 *Axios, hoc, tratamento de erros*
 
@@ -31,4 +31,4 @@ Versão básica (somente uma página)
 ### 2.0
 Versão SPA (Single Page Aplication)
 
-*Router Package*
+*Utiliza o pacote Router para fazer o roteamento das páginas*
